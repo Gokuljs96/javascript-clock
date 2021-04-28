@@ -18,5 +18,12 @@ h4{
 blockquote{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: black;
-    
+
+}
+button{
+    color: cornsilk;
+    background-color: crimson;
+    box-shadow: cornsilk;
+    height: 80px;
+    width: 300px;
 }
