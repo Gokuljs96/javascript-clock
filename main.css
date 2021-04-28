@@ -26,4 +26,8 @@ button{
     box-shadow: cornsilk;
     height: 80px;
     width: 300px;
+
+}
+#naptime , #lunchtime , #wakeuptime{
+    padding: 10px 0;
 }
